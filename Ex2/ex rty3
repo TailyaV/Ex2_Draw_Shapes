@@ -1,0 +1,6 @@
+Text file named: C:\Users\taliy\IdeaProjects\Ex2\\ex rty3
+GUIShape,java.awt.Color[r=0,g=0,b=0],true,1,Circle_2D,3.0,4.0, 2.0
+GUIShape,java.awt.Color[r=255,g=255,b=0],true,2,Circle_2D,6.0,8.0, 3.4
+GUIShape,java.awt.Color[r=0,g=0,b=255],false,0,Rect_2D,1.265625,8.75,1.265625,7.375
+GUIShape,java.awt.Color[r=0,g=0,b=255],false,0,Triangle_2D,ex2.geo.Triangle_2D@5bb8bb10
+end of file
